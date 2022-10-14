@@ -1,3 +1,5 @@
+
+//2K22/CSE/27
 import java.util.Scanner;
 class Myclass{
 public static void main(String[] org)
