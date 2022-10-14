@@ -1,4 +1,4 @@
-import java.util.Scanner;
+import java.util.Scanner;.        2k22/CSE/27
 class cpn{
 public static void main(String[] org)
 {
